@@ -2,6 +2,7 @@
 
 An ESP8266-powered 15×10 NeoPixel RGB LED matrix that displays a live rainbow animation and scrolls the name of the most recent Twitch follower across the screen.
 
+Click the imagae below for a demo of the project on YouTube. 
 [![Demo](https://img.youtube.com/vi/kpTbQW83jog/0.jpg)](https://youtube.com/shorts/kpTbQW83jog)
 
 ## Features
